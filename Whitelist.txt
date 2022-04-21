@@ -120,25 +120,24 @@ D95A0CBD-AF2C-EC11-80E2-088FC322256F
 34.Sydnell
 35.Yaru
 36.Evan
-37.Arlan
-38.null
-39.Jeremy
-40.Jose - V2
-41.Makeru
-42.Nicko
-43.Karl - 4
-44.Cokis - in Discord
-45.Ken Joya -2
-46.ryqnznc
-47.Gab
-48.Rachell
-49.RB
-50.Ralph
-51.Jerome
-52.Andrei (kaibigan ni Ken Joya)
-53.James
-54.Aivan (30dls)
-55.Deyn (Kapatid ni Deron (30dls))
+37.null
+38.Jeremy
+39.Jose - V2
+40.Makeru
+41.Nicko
+42.Karl - 4
+43.Cokis - in Discord
+44.Ken Joya -2
+45.ryqnznc
+46.Gab
+47.Rachell
+48.RB
+49.Ralph
+50.Jerome
+51.Andrei (kaibigan ni Ken Joya)
+52.James
+53.Aivan (30dls)
+54.Deyn (Kapatid ni Deron (30dls))
 55.Miguel
 56.Zach
 57.null
