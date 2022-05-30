@@ -81,7 +81,7 @@ BD75699A-A8CE-3815-A3E1-D8BBC18C6CDC;Need Transfer
 A8B54867-686C-9B18-AD39-00D861AA1A0E;Need Transfer
 null
 null
-0D76036E-6138-D15A-B068-5E4624B5ADE4;Need Transfer
+null
 03C00218-044D-05BF-EC06-0D0700080009;Need Transfer
 035E02D8-04D3-0593-FB06-B70700080009;Need Transfer
 null
@@ -245,7 +245,7 @@ null
 81.John Vincent
 82.null
 83.null
-84. Ken - Kaibigan ni Julianne
+84.null
 85.Neil Patrick
 86.Ruzzel
 87.null
